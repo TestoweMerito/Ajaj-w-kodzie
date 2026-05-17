@@ -8,9 +8,8 @@ Krótki opis: Szablon artykułu omawiający wykorzystanie AI do proaktywnego wyk
 - Najważniejsze rekomendacje.
 
 ## 1. Wprowadzenie
-- Kontekst (rosnąca złożoność systemów, presja na szybką dostawę oprogramowania).
-- Definicja: proaktywne wykrywanie podatności, automatyczna remediacja.
-- Motywacja do badań/pracy w tym obszarze.
+
+W dobie rosnącej złożoności systemów informatycznych oraz presji na szybkie dostarczanie oprogramowania, bezpieczeństwo kodu musi być integralną częścią cyklu życia aplikacji. Artykuł ten przedstawia, w jaki sposób techniki sztucznej inteligencji — od modeli uczenia maszynowego po duże modele językowe — mogą wspierać proaktywne wykrywanie podatności oraz automatyczną remediację. Omówione zostaną kluczowe metody, architektury zintegrowanych platform oraz praktyczne kroki implementacyjne dla zespołów DevSecOps. Zwrócone będzie również miejsce na ograniczenia i ryzyka związane z automatyzacją, by zaproponować odpowiedzialne i mierzalne podejście do wdrożeń.
 
 ## 2. Stan obecny bezpieczeństwa kodu
 - Tradycyjne metody (statyczna/ dynamiczna analiza, ręczne przeglądy).
